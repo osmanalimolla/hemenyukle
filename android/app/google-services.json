@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "699313682803",
+    "project_id": "hemenyukle-dc9ec",
+    "storage_bucket": "hemenyukle-dc9ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699313682803:android:961c24be6d3d2813f8ad06",
+        "android_client_info": {
+          "package_name": "com.example.hemenyukle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699313682803-2vbd9n0f9o4hkdofe7j6ev0mmb1hucpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI6sDdT5XbzZg-Tye4EP3SIVuPwTDA4sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699313682803-2vbd9n0f9o4hkdofe7j6ev0mmb1hucpo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699313682803-ofidu8oer1596q0h8sdoafoamndtnutc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hemenyukle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
